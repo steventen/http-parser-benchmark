@@ -1,0 +1,18 @@
+# IDEs
+.idea/
+.vscode/
+
+# Folders
+out/
+build/
+target/
+
+### macOS ###
+.DS_Store
+
+### Java ###
+# Compiled class file
+*.class
+
+# Log file
+*.log
